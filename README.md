@@ -1,4 +1,4 @@
-# Churn-Prediction-Analis
+# Churn-Prediction-Analisis
 
 Pada kasus kali ini saya ingin mengetahui seberapa banyak customer yang churn dengan menggunakan metode permodelan machine learning klasifikasi.
 
